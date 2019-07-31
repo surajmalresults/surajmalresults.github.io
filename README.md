@@ -1,2 +1,2 @@
-# surajmalresults.github.io
-qwertyuiop
+
+GO to surajmalresults.ml/index.html
